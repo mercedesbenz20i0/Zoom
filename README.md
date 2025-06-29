@@ -2,7 +2,7 @@
 
 Welcome to **Zoom**, your all-in-one solution for seamless **video meetings**, **webinars**, and **virtual events**. Whether you're hosting a team meeting, a public webinar, or a private 1-on-1 chat — Zoom makes it simple, smooth, and secure. 🚀
 
----
+
 
 ## ✨ Features
 
@@ -14,7 +14,7 @@ Welcome to **Zoom**, your all-in-one solution for seamless **video meetings**, *
 ✅ **Secure by Default** – Encrypted connections and password-protected rooms  
 🌍 **Trusted by Millions** – Already used and loved by **millions of people** across **190+ countries**!
 
----
+
 
 ## 📥 Installation & Usage
 
@@ -31,15 +31,13 @@ No tech skills required. Just follow these **3 simple steps**:
 
 > ⚡ No configuration required. Just install & connect!
 
----
+
 
 ## 📸 Screenshots
 
 ![zoom-banner](https://github.com/user-attachments/assets/1445e152-1386-4fa6-bf1c-1f68fc4b19bc)
 ![maxresdefault (1)](https://github.com/user-attachments/assets/9c8a912f-93e4-43f5-97bc-29c214915750)
 
-
----
 
 
 ## 📄 Requirements
@@ -48,7 +46,7 @@ No tech skills required. Just follow these **3 simple steps**:
 - 📶 Stable Internet Connection
 - 🎤 Microphone & 🎥 Webcam (built-in or external)
 
----
+
 
 ## 🔐 Security
 
@@ -57,14 +55,13 @@ Zoom uses **end-to-end encryption** and offers multiple layers of meeting protec
 - Waiting rooms 🕓  
 - Host control over screen sharing & mics 🎛️  
 
----
 
 ## 🛠️ Support & Help
 
 Having issues or questions?  
 Visit our [Support Page](https://github.com/yourusername/zoom/) or open an [Issue](https://github.com/yourusername/zoom/issues) here on GitHub.
 
----
+
 
 ## 🤝 Contributing
 
@@ -75,12 +72,12 @@ Feel free to:
 - Report bugs
 - Suggest features 🙌
 
----
+
 
 ## 📢 License
 
 This project is licensed under the [MIT License](LICENSE).
 
----
+
 
 **Thank you for choosing Zoom! Let's stay connected.** 🌍✨
